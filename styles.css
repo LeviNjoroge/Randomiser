@@ -1,0 +1,11 @@
+#result{
+    font-size:1000%
+}
+.result{
+    margin: 1px solid blue;
+    margin-left: 20px;
+    height: 200px;
+    width: 500px;
+    color: aqua;
+    text-align: center;
+}
